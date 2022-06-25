@@ -8,6 +8,7 @@ Here is a [link](/page2) to Page 2!
   - EToC
 - Courses
   - AP Calculus AB & BC
+- Papers 
 - Guides
   - SN Guide
   - CC's Guide to L
@@ -25,6 +26,7 @@ Here is a [link](/page2) to Page 2!
 - Custom Portal 2 Campaign
 - AItMI-IV
 - MPs
+- Polynomial Formulas Paper
 
 ## External Links
 - Math Papers I Quite Like
