@@ -42,4 +42,4 @@ Welcome to my online free AP Calculus AB & BC course. I will post everything AP 
 - Lesson 27 Differentiation of Parametric Functions
 - Lesson 28 Differentiation of Polar Functions
 - Lesson 29 Differentiation of Vector Functions
-- Lesson 30 L'H&oacute;pital's Rule
+- Lesson 30 L'H&ocirc;pital's Rule
