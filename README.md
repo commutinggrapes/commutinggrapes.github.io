@@ -1,4 +1,6 @@
-# Page 1
+# Home Page
+
+Welcome to my personal website! Its purpose is to house the various things I do for others to access. My interests are primarly education and mathematics althrough I enjoy a great many other (mostly academic) things.
 
 ## Temporary
 Here is a [link](/page2) to Page 2!
@@ -19,8 +21,8 @@ Here is a [link](/page2) to Page 2!
 
 ## Extracurricular Endeavors
 - Cooking
+- Perler Bead Creations
 - My Factorio Mod
-- 
 
 ## Planned Endeavors
 - Custom Portal 2 Campaign
