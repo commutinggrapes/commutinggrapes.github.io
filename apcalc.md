@@ -1,6 +1,5 @@
 ---
 title: AP Calculus AB & BC Course
-content: Ello
 layout: default
 filename: apcalc.md
 --- 
