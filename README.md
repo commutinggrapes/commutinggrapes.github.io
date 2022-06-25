@@ -13,10 +13,13 @@ Here is a [link](/page2) to Page 2!
   - CC's Guide to L
 - Research
   - SToA
+- Miscellaneous
+  - Textbook Recommendations and Reviews
 
 ## Extracurricular Endeavors
-- Video Games
-  - My Factorio Mod
+- Cooking
+- My Factorio Mod
+- 
 
 ## Planned Endeavors
 - Custom Portal 2 Campaign
