@@ -1,6 +1,6 @@
 # Home Page
 
-Welcome to my personal website! Its purpose is to house the various things I do for others to access. My interests are primarly education and mathematics althrough I enjoy a great many other (mostly academic) things.
+Welcome to my personal website! Its purpose is to house the various things I do for your viewing pleasure. My interests are primarly education and mathematics althrough I enjoy a great many other (mostly academic) things.
 
 ## Temporary
 Here is a [link](/page2) to Page 2!
