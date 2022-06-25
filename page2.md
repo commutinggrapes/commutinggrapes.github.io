@@ -1,6 +1,6 @@
 ---
 title: page2
-layout: cayman
+layout: jekyll-theme-cayman
 filename: page2.md
 --- 
 
