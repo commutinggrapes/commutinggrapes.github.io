@@ -22,3 +22,6 @@ Here is a [link](/page2) to Page 2!
 - Custom Portal 2 Campaign
 - AItMI-IV
 - MPs
+
+## External Links
+- Math Papers I Quite Like
