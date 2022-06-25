@@ -1,7 +1,7 @@
 ---
-title: PAGE TITLE HERE
-layout: template
-filename: NAME OF THIS .md FILE HERE
+title: page2
+layout: cayman
+filename: page2
 --- 
 
 ### Page 2
