@@ -3,11 +3,22 @@
 ## Temporary
 Here is a [link](/page2) to Page 2!
 
-## Active Projects
-- Project 1
-- Project 2
-- Project 3
+## Academic Endeavors
+- Books
+  - EToC
+- Courses
+  - AP Calculus AB & BC
+- Guides
+  - SN Guide
+  - CC's Guide to L
+- Research
+  - SToA
 
-## Completed Projects
-- Project 4
-- Project 5
+## Extracurricular Endeavors
+- Video Games
+  - My Factorio Mod
+
+## Planned Endeavors
+- Custom Portal 2 Campaign
+- AItMI-IV
+- MPs
