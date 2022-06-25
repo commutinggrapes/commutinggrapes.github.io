@@ -2,14 +2,11 @@
 
 Welcome to my personal website! Its purpose is to house the various things I do for your viewing pleasure. My interests are primarly education and mathematics althrough I enjoy a great many other (mostly academic) things.
 
-## Temporary
-Here is a [link](/page2) to Page 2!
-
 ## Academic Endeavors
 - Books
   - EToC
 - Courses
-  - AP Calculus AB & BC
+  - [AP Calculus AB & BC](/apcalc)
 - Papers 
 - Guides
   - SN Guide
