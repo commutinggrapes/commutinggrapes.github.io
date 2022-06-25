@@ -45,7 +45,7 @@ Welcome to my online free AP Calculus AB & BC course. I will post everything AP 
 - Lesson 30 L'H&ocirc;pital's Rule
 - Lesson 31 Introduction to Differential Equations
 
-## Unit 5 Graphical Analysis of Functinos
+### Unit 5 Graphical Analysis of Functions
 - Lesson 32 The Mean Value Theorem
 - Lesson 33 Connecting Graphs and Derivatives
 - Lesson 34 Fermat's Theorem and The Candidates Test
@@ -56,13 +56,13 @@ Welcome to my online free AP Calculus AB & BC course. I will post everything AP 
 - Lesson 39 Related Rates
 - Lesson 40 Linear Approximation of Functions
 
-## Unit 6 Infinity: An Interlude
+### Unit 6 Infinity: An Interlude
 - Lesson 41 Convergence of Sequences (BC Required, AB Recommended)
 - Lesson 42 Limits at Infinity
 - Lesson 43 Infinite Limits
 - Lesson 44 Analysis of Function Growth Rates (Optional)
 
-## Unit 7 Introduction to Integrals
+### Unit 7 Introduction to Integrals
 - Lesson 45 Intuitive Introduction to Integrals
 - Lesson 46 Definite Integral Propositions
 - Lesson 47 Calculating Areas of Irregular Shapes
@@ -71,7 +71,7 @@ Welcome to my online free AP Calculus AB & BC course. I will post everything AP 
 - Lesson 50 Kinematics with Differential and Integral Calculus
 - Lesson 51 Antiderivatives and Integration Tables
 
-## Unit 8 Extending and Applying Integration
+### Unit 8 Extending and Applying Integration
 - Lesson 52 The Disks and Washers Method
 - Lesson 53 The Shell Method (Optional)
 - Lesson 54 Calculating Volumes of Shapes with Similar Perpendicualar Cross Sections
@@ -81,19 +81,19 @@ Welcome to my online free AP Calculus AB & BC course. I will post everything AP 
 - Lesson 58 Integration of Vector Functions (BC Only)
 - Lesson 59 Calculating Arc Length of Planar Curves (BC Only)
 
-## Unit 9 Logarithmic and Exponential Functions
+### Unit 9 Logarithmic and Exponential Functions
 - Lesson 60 Defining Logarithmic Functions
 - Lesson 61 Defining Exponential Functions
 - Lesson 62 Calculus with Logarithmic and Exponential Functions
 
-## Unit 10 The Fundamental Theorems of Calculus and Integration Techniques
+### Unit 10 The Fundamental Theorems of Calculus and Integration Techniques
 - Lesson 63 The Fundamental Theorems of Calculus
 - Lesson 64 U-Substitution
 - Lesson 65 Polynomial Division of Integrands
 - Lesson 66 Partial Fraction Decomposition of Integrands (BC Only)
 - Lesson 67 Integration by Parts (BC Only)
 
-## Unit 11 Differential Equations
+### Unit 11 Differential Equations
 - Lesson 68 Slope Fields
 - Lesson 69 Seperable Differential Equations
 - Lesson 70 Initial Value Problems
@@ -101,7 +101,7 @@ Welcome to my online free AP Calculus AB & BC course. I will post everything AP 
 - Lesson 72 Logarithmic Modeling (BC Only)
 - Lesson 73 Euler's Method (BC Only)
 
-## Unit 12 Convergence (BC Only)
+### Unit 12 Convergence (BC Only)
 - Lesson 74 Improper Integrals
 - Lesson 75 Introduction to Series
 - Lesson 76 The nth Term Test for Divergence
