@@ -101,7 +101,7 @@ Welcome to my online free AP Calculus AB & BC course. I will post everything AP 
 - Lesson 72 Logarithmic Modeling (BC Only)
 - Lesson 73 Euler's Method (BC Only)
 
-## Unit 12 Convergence
+## Unit 12 Convergence (BC Only)
 - Lesson 74 Improper Integrals
 - Lesson 75 Introduction to Series
 - Lesson 76 The nth Term Test for Divergence
