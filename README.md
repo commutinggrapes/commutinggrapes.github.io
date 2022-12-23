@@ -2,7 +2,7 @@ Welcome to my personal website! Its purpose is to house the various things I do;
 
 ## Academic Endeavors
 - Courses
-  - [AP Calculus AB & BC](/apcalc)
+  - [Single Variable Differential Calculus](/svdc)
 - Papers
   - The Fundamental Theorem of Calculus Is A Lie
 - Guides
