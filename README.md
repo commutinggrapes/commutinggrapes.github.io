@@ -2,8 +2,7 @@ Welcome to my personal website! Its purpose is to house the various things I do;
 
 ## Academic Endeavors
 - [Notes](/notes)
-- Papers
-  - The Fundamental Theorem of Calculus Is A Lie
+- [Papers](/papers)
 - Guides
   - Copycat's Guide to LaTeX
 - Miscellaneous
